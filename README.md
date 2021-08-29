@@ -16,4 +16,4 @@ School project
 
 Use case-ove sam podesio tako da superuser moze da izvesi sve i on se loguje sa   "adminuser"   "sifra123"  (jwt token je postavljen da istice za vise od pola sata), pored toga neautorizovan korisnik moze da odradi get brendova (svih i po id-u), get produkta (svih i po id-u) kao i da odradi register i login, a autorizovan korisnik pored toga moze da odradi i postavljanje ordera (kupovinu) kao i da vidi svoje porudzbine.
 
-!(https://github.com/andrej-separovic/ASProjekat/blob/master/ASProjekat baza.png?raw=true)
+Slika dijagrama baze je u fajlovima projekta.
